@@ -1,7 +1,7 @@
 # Machine Learning Resources
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
-Figuring out how to implement your ML project? Learn how other organizations did it:
+Figuring out how to implement your Machine Learning project? Learn how other organizations did it:
 
 - **How** the problem is framed 🔎(e.g., personalization as recsys vs. search vs. sequences)
 - **What** machine learning techniques worked ✅ (and sometimes, what didn't ❌)
